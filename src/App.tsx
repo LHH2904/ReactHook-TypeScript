@@ -3,7 +3,8 @@ import UseEffect from "./components/UseEffect.tsx";
 import UseContext from "./components/UseContext.tsx";
 import UseReducer from "./components/UseReducer.tsx";
 import UseRef from "./components/UseRef.tsx";
-import CustomHook from "./components/CustomHook.tsx";
+import CustomHook from "./components/customhook/CustomHook.tsx";
+
 
 
 function App() {
