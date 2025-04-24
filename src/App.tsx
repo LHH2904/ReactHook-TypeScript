@@ -1,6 +1,7 @@
 import UseState from "./components/UseState.tsx";
 import UseEffect from "./components/UseEffect.tsx";
 import UseContext from "./components/UseContext.tsx";
+import UseReducer from "./components/UseReducer.tsx";
 
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
           <UseEffect/>
           <h1>useContext</h1>
           <UseContext/>
+          <h1>useReducer</h1>
+          <UseReducer/>
       </div>
     </>
   )
