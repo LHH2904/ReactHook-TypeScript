@@ -3,6 +3,7 @@ import UseEffect from "./components/UseEffect.tsx";
 import UseContext from "./components/UseContext.tsx";
 import UseReducer from "./components/UseReducer.tsx";
 import UseRef from "./components/UseRef.tsx";
+import CustomHook from "./components/CustomHook.tsx";
 
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
           <UseReducer/>
           <h1>useRef</h1>
           <UseRef/>
+          <h1>CustomHook</h1>
+          <CustomHook/>
       </div>
     </>
   )
