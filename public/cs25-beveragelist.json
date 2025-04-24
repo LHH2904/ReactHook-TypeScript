@@ -1,0 +1,122 @@
+[
+  {
+    "name": "lager",
+    "producerName": "Sierra Nevada",
+    "beverageName": "Crispy Dream",
+    "beverageColor": "#FFA07A",
+    "beverageStyle": "Amber Ale",
+    "producerLocation": "Chico, CA",
+    "abv": 6.8,
+    "ibu": 56,
+    "logo": "https://images.unsplash.com/photo-1644472371341-6f47c441b932?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxvZ28lMjBsYWdlciUyMGJldmVyYWdlfGVufDB8fDB8fHww",
+    "level": 19758
+  },
+  {
+    "name": "pilsner",
+    "producerName": "Lagunitas",
+    "beverageName": "Funky Hop",
+    "beverageColor": "#FFD700",
+    "beverageStyle": "Double IPA",
+    "producerLocation": "Petaluma, CA",
+    "abv": 8.2,
+    "ibu": 44,
+    "logo": "https://example.com/logos/deschutes.png",
+    "level": 31108
+  },
+  {
+    "name": "stout",
+    "producerName": "Deschutes",
+    "beverageName": "Sparkle Monkey",
+    "beverageColor": "#FFDC67",
+    "beverageStyle": "Imperial Stout",
+    "producerLocation": "Bend, OR",
+    "abv": 11.3,
+    "ibu": 87,
+    "logo": "https://example.com/logos/deschutes.png",
+    "level": 40410
+  },
+  {
+    "name": "porter",
+    "producerName": "Dogfish Head",
+    "beverageName": "Juicy Muffin",
+    "beverageColor": "#DAA520",
+    "beverageStyle": "Brown Ale",
+    "producerLocation": "Milton, DE",
+    "abv": 6.9,
+    "ibu": 22,
+    "logo": "https://example.com/logos/dogfish_head.png",
+    "level": 39791
+  },
+  {
+    "name": "beer",
+    "producerName": "Stone",
+    "beverageName": "Sparkle Hop",
+    "beverageColor": "#D2691E",
+    "beverageStyle": "Hazy IPA",
+    "producerLocation": "Escondido, CA",
+    "abv": 7.4,
+    "ibu": 68,
+    "logo": "https://example.com/logos/stone.png",
+    "level": 18725
+  },
+  {
+    "name": "mead",
+    "producerName": "Bell's",
+    "beverageName": "Funky Dream",
+    "beverageColor": "#FF8C00",
+    "beverageStyle": "Pale Ale",
+    "producerLocation": "Kalamazoo, MI",
+    "abv": 9.8,
+    "ibu": 77,
+    "logo": "https://example.com/logos/bell's.png",
+    "level": 22213
+  },
+  {
+    "name": "ale",
+    "producerName": "Goose Island",
+    "beverageName": "Juicy Storm",
+    "beverageColor": "#B8860B",
+    "beverageStyle": "West Coast IPA",
+    "producerLocation": "Chicago, IL",
+    "abv": 5.4,
+    "ibu": 38,
+    "logo": "https://example.com/logos/goose_island.png",
+    "level": 38955
+  },
+  {
+    "name": "sour",
+    "producerName": "Founders",
+    "beverageName": "Hoppy Muffin",
+    "beverageColor": "#A0522D",
+    "beverageStyle": "Session IPA",
+    "producerLocation": "Grand Rapids, MI",
+    "abv": 6.3,
+    "ibu": 52,
+    "logo": "https://example.com/logos/founders.png",
+    "level": 15674
+  },
+  {
+    "name": "cider",
+    "producerName": "Revision",
+    "beverageName": "Crispy Monkey",
+    "beverageColor": "#F08080",
+    "beverageStyle": "New England IPA",
+    "producerLocation": "Sparks, NV",
+    "abv": 7.1,
+    "ibu": 40,
+    "logo": "https://example.com/logos/revision.png",
+    "level": 27391
+  },
+  {
+    "name": "beer",
+    "producerName": "Sierra Nevada",
+    "beverageName": "Bitter Cloud",
+    "beverageColor": "#FFD700",
+    "beverageStyle": "Double IPA",
+    "producerLocation": "Chico, CA",
+    "abv": 10.2,
+    "ibu": 92,
+    "logo": "https://example.com/logos/sierra_nevada.png",
+    "level": 11834
+  }
+]
