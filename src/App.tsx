@@ -1,4 +1,5 @@
 import UseState from "./components/UseState.tsx";
+import UseEffect from "./components/UseEffect.tsx";
 
 
 function App() {
@@ -9,6 +10,8 @@ function App() {
       <div>
           <h1>useState</h1>
           <UseState/>
+          <h1>useEffect</h1>
+          <UseEffect/>
       </div>
     </>
   )
