@@ -1,4 +1,3 @@
-
 import { useFilteredData, Beverage } from "./useFilteredData.ts";
 
 function CustomHook() {
