@@ -1,10 +1,16 @@
-import UseState from "./components/UseState.tsx";
-import UseEffect from "./components/UseEffect.tsx";
-import UseContext from "./components/UseContext.tsx";
-import UseReducer from "./components/UseReducer.tsx";
-import UseRef from "./components/UseRef.tsx";
-import CustomHook from "./components/customhook/CustomHook.tsx";
-import EvenMoreReact from "./components/EvenMoreReact.tsx";
+import UseState from "./components/UseState";
+import UseEffect from "./components/UseEffect";
+import UseContext from "./components/UseContext";
+import UseReducer from "./components/UseReducer";
+import UseRef from "./components/UseRef";
+import CustomHook from "./components/customhook/CustomHook";
+import EvenMoreReact from "./components/EvenMoreReact";
+import Text from "./components/component-generic/card-info/Text";
+import ListExample from "./components/component-generic/list/ListExample.tsx";
+import StringSelect from "./components/component-generic/select/StringSelect.tsx";
+import NumberSelect from "./components/component-generic/select/NumberSelect.tsx";
+import ObjectSelect from "./components/component-generic/select/ObjectSelect.tsx";
+
 
 function App() {
   return (
@@ -24,6 +30,15 @@ function App() {
           <CustomHook/>
           <h1>Even More React Component TS stuff</h1>
           <EvenMoreReact/>
+          <h1>Component generic</h1>
+          <h3>Card Info</h3>
+          <Text/>
+          <h3>List User</h3>
+          <ListExample/>
+          <h4>Select</h4>
+          <StringSelect/>
+          <NumberSelect/>
+          <ObjectSelect/>
       </div>
     </>
   )
