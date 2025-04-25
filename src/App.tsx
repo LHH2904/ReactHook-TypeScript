@@ -4,12 +4,9 @@ import UseContext from "./components/UseContext.tsx";
 import UseReducer from "./components/UseReducer.tsx";
 import UseRef from "./components/UseRef.tsx";
 import CustomHook from "./components/customhook/CustomHook.tsx";
-
-
+import EvenMoreReact from "./components/EvenMoreReact.tsx";
 
 function App() {
-
-
   return (
     <>
       <div>
@@ -25,6 +22,8 @@ function App() {
           <UseRef/>
           <h1>CustomHook</h1>
           <CustomHook/>
+          <h1>Even More React Component TS stuff</h1>
+          <EvenMoreReact/>
       </div>
     </>
   )
